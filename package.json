@@ -1,0 +1,14 @@
+{
+  "name": "mirror",
+  "description": "Send a request, returns what you sent. Good for testing proxies",
+  "scripts" : {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "underscore" : "1.6.*",
+    "url" : "*",
+    "querystring" : "*"
+  }
+
+
+}
