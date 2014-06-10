@@ -36,7 +36,6 @@ var server = http.createServer(function(request, response) {
 
     response.writeHead(returnStatusCode, responseHeaders);
 
-
     resJson.response = {
       statusCode: returnStatusCode,
       headersSubset: responseHeaders

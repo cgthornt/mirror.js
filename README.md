@@ -2,6 +2,16 @@ mirror.js
 =========
 A simple node.js application that responds with what you send it. Very useful for testing proxying applications.
 
+## Getting Started
+Assuming you have node.js installed:
+
+```sh
+git clone git@github.com:cgthornt/mirror.js.git
+cd mirror.js
+npm install
+npm start
+```
+
 ## Examples
 
 Basic usage:
